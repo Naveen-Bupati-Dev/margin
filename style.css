@@ -1,0 +1,222 @@
+ 
+
+ 
+
+ #container{
+    width: 100%;
+    /* border: 2px solid black; */
+    height: 680px;
+    background-color: lightblue;
+    padding-top: 23px;
+ }
+
+ #heading-box{
+    width: 80%;
+    height: 50px;
+    border: 3px solid red;
+    background-color: orange;
+    margin: auto;
+    
+ }
+ h1{
+    text-align: center;
+    margin-top: -0px;
+ }
+ #boxes1{
+    width: 50px;
+    /* border: 2px solid black; */
+    background-color: blue;
+    margin-top: 10px;
+    margin-left: 123px;
+    padding: 30px;
+    border-radius: 10px;
+    color: white;
+ }
+ #boxes2{
+    width: 50px;
+    /* border: 2px solid black; */
+    background-color:yellow;
+    margin-top: 30px;
+    margin-left: 280px;
+    padding: 30px;
+    border-radius: 10px;
+    
+ }
+ #boxes3{
+    width: 50px;
+    /* border: 2px solid black; */
+    background-color: red;
+    margin-top: 30px;
+    margin-left: 460px;
+    padding: 30px;
+    border-radius: 10px;
+    color: white;
+    
+ }
+ #boxes4{
+    width: 50px;
+    /* border: 2px solid black; */
+    background-color: gray;
+    margin-top: 20px;
+    margin-left: 630px;
+    padding: 30px;
+    border-radius: 10px;
+    color: white;
+    
+ }
+
+ #step1{
+    margin-left: 160px;
+    display: block;
+    margin-top: 30px;
+ }
+ #step2{
+    margin-left: 300px;
+    display: block;
+    margin-top: 30px;
+ }
+ #step3{
+    margin-left: 480px;
+    display: block;
+    margin-top: 30px;
+ }
+ #step4{
+    margin-left: 636px;
+    display: block;
+    margin-top: 30px;
+ }
+
+ #container2{
+    width: 100%;
+    /* border: 2px solid black; */
+    padding-top: 23px;
+    height: 500px;
+   
+    
+ }
+
+ #circle1{
+    width: 500px;
+    height: 500px;
+    border: 3px solid black;
+    display: inline-block;
+    border-radius: 50%;
+    background-color: black;
+     }
+
+ #circle2{
+    width: 400px;
+    height: 380px;
+    /* border: 2px solid black; */
+    background-color: red;
+    padding: 10px;
+    display: inline-block;
+    margin-left: -468px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+   
+ }
+ #circle3{
+    width: 330px;
+    height: 320px;
+    /* border: 2px solid black; */
+    background-color: blue;
+    padding: 5px;
+    display: inline-block;
+    margin-left: -386px;
+    margin-bottom: 80px;
+    border-radius: 50%;
+   
+ }
+ #circle4{
+    width: 230px;
+    height: 220px;
+    /* border: 2px solid black; */
+    background-color: yellow;
+    padding: 5px;
+    display: inline-block;
+    margin-left: -296px;
+    margin-bottom: 130px;
+    border-radius: 50%;
+   
+ }
+ #circle5{
+    width: 130px;
+    height: 120px;
+    /* border: 2px solid black; */
+    background-color: red;
+    padding: 5px;
+    display: inline-block;
+    margin-left: -193px;
+    margin-bottom: 180px;
+    border-radius: 50%;
+   
+ }
+ #sc{
+      margin-left: 400px;
+ }
+
+ #container3{
+    width: 100%;
+    border: 2px solid black;
+    padding-top: 23px;
+    height: 500px;
+    background-color: aqua;
+   
+    
+ }
+ #tb{
+    width: 100px;
+    border: 2px solid black;
+    height: 200px;
+    padding-top: 100px;
+    margin: auto;
+    border-radius: 20px;
+    background-color: black;
+    
+ }
+ #t1{
+    width: 40px;
+    height: 40px;
+    border: 2px solid black;
+    padding: 10px;
+    margin-top: -80px;
+    border-radius: 30px;
+    margin-left: 20px;
+    background-color: red;
+ }
+ #t2{
+    width: 60px;
+    height: 60px;
+    border: 2px solid black;
+    margin-top: 40px;
+    border-radius: 30px;
+    margin-left: 23px;
+    background-color: orange;
+ }
+ #t3{
+    width: 60px;
+    height: 60px;
+    border: 2px solid black;
+    margin-top: 33px;
+    border-radius: 30px;
+    margin-left: 23px;
+    background-color: green;
+ }
+ #t4{
+    width: 60px;
+    height: 30px;
+    border: 2px solid black;
+    margin-top: 10px;
+    border-radius: 30px;
+    margin-left: 20px;
+    background-color: black
+ }
+ #container4{
+    width: 20px;
+    border: 2px solid black;
+    height: 160px;
+    margin-left: 41px;   
+    background-color: black; 
+ 
+ }
